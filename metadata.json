@@ -1,0 +1,7 @@
+{
+  "name": "GeoMemories - 3D地球儀 旅の記録帳",
+  "description": "訪れた国を3D地球儀にピン留めし、大切な写真や思い出を美しいパスポート＆ジャーナルとして記録するトラベルアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
